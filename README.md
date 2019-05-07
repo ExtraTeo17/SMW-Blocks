@@ -1,2 +1,4 @@
 # SMW-Blocks
-Set of Super Mario World blocks for the Super Nintendo Entertainment System game console.
+Blocks I've created back in 2011/2012, thus they contain their own original, unmodified readme files in the corresponding folders.
+
+![alt text](http://i63.tinypic.com/197e9w.png)
